@@ -1,0 +1,7 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  }
+}
