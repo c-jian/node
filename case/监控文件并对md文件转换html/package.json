@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "description": "> 文件流、网络操作、服务端Web开发基础",
+  "dependencies": {
+    "marked": "^0.3.9",
+    "browser-sync": "^2.18.13"
+  }
+}
