@@ -54,6 +54,8 @@ function broadcast(data,curSocket){
             socket.write(JSON.stringify(data));
         }
 
-    })
+    });
+
+    //sockets[username]指定发送给谁
 
 }
